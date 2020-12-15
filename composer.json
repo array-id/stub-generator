@@ -1,0 +1,19 @@
+{
+    "name": "array-id/stub-generator",
+    "description": "Generate Stub!",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ArrayID\\StubGenerator\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "rizalfakhri",
+            "email": "rizal@array.id"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
